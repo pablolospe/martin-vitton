@@ -24,33 +24,33 @@ export const LOGO_IMAGE = {
 };
 
 export const SOCIALS: SocialObjects = [
-  {
-    name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: ` ${SITE.title} on Github`,
-    active: true,
-  },
-  {
-    name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Facebook`,
-    active: true,
-  },
+  // {
+  //   name: "Github",
+  //   href: "https://github.com/satnaing/astro-paper",
+  //   linkTitle: ` ${SITE.title} on Github`,
+  //   active: true,
+  // },
+  // {
+  //   name: "Facebook",
+  //   href: "https://github.com/satnaing/astro-paper",
+  //   linkTitle: `${SITE.title} on Facebook`,
+  //   active: true,
+  // },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/martinvitton/?hl=es-la",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
-  {
-    name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
-  },
+  // {
+  //   name: "LinkedIn",
+  //   href: "https://github.com/satnaing/astro-paper",
+  //   linkTitle: `${SITE.title} on LinkedIn`,
+  //   active: true,
+  // },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:martinvitton@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
@@ -58,12 +58,6 @@ export const SOCIALS: SocialObjects = [
     name: "Twitter",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Twitter`,
-    active: false,
-  },
-  {
-    name: "Twitch",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Twitch`,
     active: false,
   },
   {
@@ -76,13 +70,7 @@ export const SOCIALS: SocialObjects = [
     name: "WhatsApp",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on WhatsApp`,
-    active: false,
-  },
-  {
-    name: "Snapchat",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Snapchat`,
-    active: false,
+    active: true,
   },
   {
     name: "Pinterest",
