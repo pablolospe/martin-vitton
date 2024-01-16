@@ -52,7 +52,7 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:martinvitton@gmail.com",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitter",
@@ -68,7 +68,7 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "WhatsApp",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://api.whatsapp.com/send?phone=+5491160531975&text=Hola,%20Necesito%20m%C3%A1s%20informaci%C3%B3n!",
     linkTitle: `${SITE.title} on WhatsApp`,
     active: true,
   },
