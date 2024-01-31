@@ -24,30 +24,30 @@ export const LOGO_IMAGE = {
 };
 
 export const SOCIALS: SocialObjects = [
-  // {
-  //   name: "Github",
-  //   href: "https://github.com/satnaing/astro-paper",
-  //   linkTitle: ` ${SITE.title} on Github`,
-  //   active: true,
-  // },
-  // {
-  //   name: "Facebook",
-  //   href: "https://github.com/satnaing/astro-paper",
-  //   linkTitle: `${SITE.title} on Facebook`,
-  //   active: true,
-  // },
+  {
+    name: "Github",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: ` ${SITE.title} on Github`,
+    active: false,
+  },
+  {
+    name: "Facebook",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on Facebook`,
+    active: false,
+  },
   {
     name: "Instagram",
     href: "https://www.instagram.com/martinvitton/?hl=es-la",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
   },
-  // {
-  //   name: "LinkedIn",
-  //   href: "https://github.com/satnaing/astro-paper",
-  //   linkTitle: `${SITE.title} on LinkedIn`,
-  //   active: true,
-  // },
+  {
+    name: "LinkedIn",
+    href: "https://github.com/satnaing/astro-paper",
+    linkTitle: `${SITE.title} on LinkedIn`,
+    active: false,
+  },
   {
     name: "Mail",
     href: "mailto:martinvitton@gmail.com",
@@ -70,7 +70,7 @@ export const SOCIALS: SocialObjects = [
     name: "WhatsApp",
     href: "https://api.whatsapp.com/send?phone=+5491160531975&text=Hola,%20Necesito%20m%C3%A1s%20informaci%C3%B3n!",
     linkTitle: `${SITE.title} on WhatsApp`,
-    active: true,
+    active: false,
   },
   {
     name: "Pinterest",
