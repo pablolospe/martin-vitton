@@ -1,9 +1,9 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "Sobre mí:"
 ---
 
-Martin Vitton te corrige toooooodo
+Te corrijo todo, hasta que parezcas bueno
 
 <!-- AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
 
