@@ -8,11 +8,13 @@ ogImage: ../../assets/images/AstroPaper-v4.png
 tags:
   - fashionWriter 
   - penelopelamour
-description: "No la podes creer."
+description: "Estoy aquí!"
 ---
 
 ![AstroPaper v4](https://64.media.tumblr.com/avatar_7f6b2fcd0faa_64.pnj)
+# Hola pianola
 ## Hola pianola
+### Hola pianola
 
 Los Beatles me hicieron: una reflexión personal sobre el poder transformador de la música
 
